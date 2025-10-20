@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello, I'm Lyn! I mostly use GitHub for school but if I do any personal projects I will post them here. 
 
 <!--
 **LynRose-13/LynRose-13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
